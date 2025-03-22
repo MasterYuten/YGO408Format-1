@@ -33,8 +33,8 @@
    | MDPro3 408兼容OCG补丁         | MDPro3                           | 双环境共存（功能受限）              |
    
 3. **下载地址**  
-   • 百度网盘：<https://pan.baidu.com/s/14vqrqXSJfsh7dVdnW2535w?pwd=1919>
-   • 安卓补丁教程（参考）：[B站视频](https://www.bilibili.com/video/BV1KW4y1Y7ym/)
+   • 百度网盘：<https://pan.baidu.com/s/14vqrqXSJfsh7dVdnW2535w?pwd=1919>  
+   • 安卓补丁教程（参考）：[B站视频](https://www.bilibili.com/video/BV1KW4y1Y7ym/)  
 
 #### **电脑版操作**  
 1. 解压游戏本体到指定目录。  
